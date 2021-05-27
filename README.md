@@ -1,5 +1,7 @@
 
-### Hi there 👋
+### Hello!
+### I'm kumitatepazuru.
+### I LOVE LINUX!
 
 <img src="https://img.shields.io/badge/isActive-true-4444ff.svg?logo=&style=for-the-badge">
 
